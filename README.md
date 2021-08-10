@@ -14,13 +14,13 @@ git clone https://github.com/izbari/ToDo
 
 # Usage
 
-###The program is simple to use and functional.The operations you can do are as follows;
-*Take notes and save
-*Click on the note and mark it done so it changes color and style,
-*You can delete it by long pressing on the note you have finished,
-*You can see the number of your works from above,
-*When you exit the application, your data will not be stored in a cloud system (aws, google cloud, firebase...), 
-*It will be stored on your device, so you will not need internet when you want to do your work.
+### The program is simple to use and functional.The operations you can do are as follows;
+* Take notes and save
+* Click on the note and mark it done so it changes color and style,
+* You can delete it by long pressing on the note you have finished,
+* You can see the number of your works from above,
+* When you exit the application, your data will not be stored in a cloud system (aws, google cloud, firebase...), 
+* It will be stored on your device, so you will not need internet when you want to do your work.
 
 
 
